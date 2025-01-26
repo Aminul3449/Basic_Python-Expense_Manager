@@ -1,0 +1,3 @@
+1. Create a list that shows the options to create, view, input, delete an expense and also exit the program
+2. define a function under every option stated above, these all are created under a class and called by the options chosen 
+3. receive the commands taken from the list created above and run the targeted function
